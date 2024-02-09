@@ -1,0 +1,17 @@
+platform,boundary,name,service_name,Project-code,management_type,description,category,start_time,costs
+Data,Marketing,DBA,Aurora,aurora-production,Fully Managed,Marketing costs with Aurora 2022-02-28,Databases,2022-02-01 00:00:00.000000 UTC,11.0
+Data,Marketing,DBA,Aurora-Limitless-Database,aurora-dev,Fully Managed,Marketing costs with Aurora 2022-02-28,Databases,2022-02-01 00:00:00.000000 UTC,12.6
+Operations,Finance,DBI,Amazon Athena,athena-finance,Fully Managed,Finance costs with Athena 2022-02-28,Databases,2022-02-01 00:00:00.000000 UTC,7.4
+Operations,DevOps,Central,Amazon EC2,Production-pool,UnManaged,Amazon EC2 Operation Infra,Vms,2022-02-01 00:00:00.000000 UTC,80.0
+DataScience,Marketing,ReCO,Amazon Bedrock,bedrock001,Fully Managed,Amazon EC2 C7g Instances,Vms,2022-02-01 00:00:00.000000 UTC,1.2
+DataScience,Marketing,SEO,Amazon API Gateway,Production-pool,UnManaged,Production-pool-aws-europe,Networking,2023-04-01 00:00:00.000000 UTC,3.5
+Data,Marketing,sync,Amazon Route 53,Production-pool,UnManaged,Production-pool-aws-europe,Networking,2022-02-01 00:00:00.000000 UTC,2.5
+Operations,DevOps,Central,Amazon Route 53,Production-pool,UnManaged,Production-pool-aws-europe,Networking,2023-04-01 00:00:00.000000 UTC,12.7
+Data,Marketing,DBA,Amazon API Gateway,Development-pool,UnManaged,development-pool-aws-europe,Networking,2022-02-01 00:00:00.000000 UTC,8.6
+DataScience,Marketing,ReCO,Amazon EC2,Development-pool,UnManaged,development-pool-aws-europe,Vms,2023-04-01 00:00:00.000000 UTC,9.2
+Operations,Finance,DBI,Amazon EC2,Development-pool,UnManaged,development-pool-aws-europe,Vms,2023-04-01 00:00:00.000000 UTC,11.2
+Operations,DevOps,DBI,Amazon EC2,Project-code001,UnManaged,Production-pool-aws-europe,Vms,2022-04-01 00:00:00.000000 UTC,18.4
+Operations,DevOps,Central,AWS Cloud Map,Backbone,UnManaged,Production-pool-aws-europe,Networking,2023-02-01 00:00:00.000000 UTC,12.6
+DataScience,Marketing,ReCO,Amazon S3,ds01,UnManaged,DataScience Reco – pool-aws-europe,Vms,2022-02-01 00:00:00.000000 UTC,12.4
+DataScience,Marketing,SEO,Amazon S3,ds01,UnManaged,DataScience SEO – Production-pool-aws-europe,Vms,2023-03-01 00:00:00.000000 UTC,67.1
+Data,Marketing,DBA,Amazon S3,dba01,UnManaged,Marketing – DBA – Production,Vms,2023-04-01 00:00:00.000000 UTC,11.2

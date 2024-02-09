@@ -1,0 +1,9 @@
+public
+db.json
+node_modules
+.deploy_git
+.spelling
+build
+db.json
+.vscode
+logs

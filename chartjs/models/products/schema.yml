@@ -1,0 +1,6 @@
+version: 2
+
+sources:
+- name: costs
+  tables:
+  - name: costs
